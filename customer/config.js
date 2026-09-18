@@ -3,7 +3,7 @@
 // This is the ONLY place you need to configure the API URL for the
 // customer app.
 // ---------------------------------------------------------------------
-const API_URL = "https://script.google.com/macros/s/AKfycbwYJE2vFZQ6lX7ZX4micafS9bxqR7O6rUCvOrTK5HNjEZqfS36LQf8cp2XJI0_mfdce/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwrBgnxgyxGVtn-D2yiW2h2pFjETPTIWmxEHBcDlnxHPUoUUoKObEeozeEbZlsglUDt/exec";
 
 // ---------------------------------------------------------------------
 // OPTIONAL: OneSignal App ID for customer push notifications (section 5).
