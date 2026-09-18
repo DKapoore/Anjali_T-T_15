@@ -3,7 +3,7 @@
 // This must be the SAME URL used in customer/config.js - it is one
 // backend serving both apps.
 // ---------------------------------------------------------------------
-const API_URL = "https://script.google.com/macros/s/AKfycbwYJE2vFZQ6lX7ZX4micafS9bxqR7O6rUCvOrTK5HNjEZqfS36LQf8cp2XJI0_mfdce/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwrBgnxgyxGVtn-D2yiW2h2pFjETPTIWmxEHBcDlnxHPUoUUoKObEeozeEbZlsglUDt/exec";
 
 // ---------------------------------------------------------------------
 // OneSignal App ID for admin push notifications (New Booking, Payment
